@@ -1,0 +1,131 @@
+.top-cont {
+    background-color: #dcffcc;
+    margin : 0px;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Special Elite', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3{
+    font-family: 'Orbitron', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+    text-decoration: none;
+}
+
+p{
+    line-height: 2;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Sanchez', serif;
+    color: #40514E;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 10px;
+    margin: 70px auto;
+    color: #eaf6f6;
+}
+
+.bot-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.desarrollador{
+    text-decoration: underline;
+    font-weight: normal
+}
+
+.foto-perfil{
+    width:180px;
+    border-radius: 50%; 
+}
+
+.perfil-desc {
+    width: 30%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.computadora {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+.camara {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile {
+    padding-top: 50px;
+}
+
+.btn {
+    background-color: #008CBA; /* Green */
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.contact-me {
+    margin-bottom: 50px;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+}
+
+.bot-cont {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #66bfbf;
+}
+
+.footer-link {
+    margin: 0px 15px;
+}
