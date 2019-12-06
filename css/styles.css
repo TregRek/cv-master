@@ -78,7 +78,6 @@ hr {
     width: 50%;
     margin: 100px auto 100px;
     text-align: left;
-    line-height: 2;
 }
 
 .computadora {
@@ -128,4 +127,9 @@ hr {
 
 .footer-link {
     margin: 0px 15px;
+}
+
+.contact-text {
+    width: 30%;
+    margin: auto;
 }
